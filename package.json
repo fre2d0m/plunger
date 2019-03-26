@@ -1,5 +1,5 @@
 {
-    "name": "plunger",
+    "name": "func-plunger",
     "version": "1.0.0",
     "description": "A simple retry operation javascript library",
     "main": "./lib/plunger.js",
