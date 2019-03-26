@@ -1,0 +1,28 @@
+{
+    "name": "plunger",
+    "version": "1.0.0",
+    "description": "A simple retry operation javascript library",
+    "main": "./lib/plunger.js",
+    "types": "./lib/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/freedomelf/plunger.git"
+    },
+    "keywords": [
+        "js", "retry"
+    ],
+    "author": "xin.li",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/freedomelf/plunger/issues"
+    },
+    "homepage": "https://github.com/freedomelf/plunger#readme",
+    "devDependencies": {
+        "mocha": "^5.2.0",
+        "tslint": "^5.13.1",
+        "typescript": "^3.3.0-rc"
+    }
+}
