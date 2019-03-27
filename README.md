@@ -12,7 +12,7 @@ A simple retry operation javascript library
 ## Usage
 
 ```typescript
-import Plunger from 'plunger';
+import Plunger from 'func-plunger';
 
 const retryCount = 3;
 
