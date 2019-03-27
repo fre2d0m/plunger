@@ -1,9 +1,9 @@
 {
     "name": "func-plunger",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A simple retry operation javascript library",
     "main": "./lib/plunger.js",
-    "types": "./lib/index.d.ts",
+    "types": "./lib/plunger.d.ts",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
